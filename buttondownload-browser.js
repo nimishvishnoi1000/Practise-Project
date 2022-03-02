@@ -1,4 +1,4 @@
-https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js;
+
 
 $('#GetFile').on('click', function () {
     $.ajax({
@@ -9,7 +9,7 @@ $('#GetFile').on('click', function () {
         },
         success: function (data) {
             var b = document.createElement('a');
-            var url = window.URL.createObjectURL(data);
+            
             b.href = url;
             b.download = 'myfile.pdf';
             document.body.append(b);
