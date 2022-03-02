@@ -1,0 +1,31 @@
+ul{
+    list-style: none;
+    display: block;
+}
+
+li{
+    float: left;
+
+    background-color: blanchedalmond;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom:20px ;
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+  
+}
+
+a{
+    text-decoration: none;
+    padding: 10px 10px;
+    color: blanchedalmond;
+    
+}
+
+a:hover{
+    color: whitesmoke;
+    background-color: darkgrey;
+    
+
+}
+
