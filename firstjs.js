@@ -14,6 +14,7 @@ var nos3=126;
 var X=10;
 var Y=20;
 var Z=30;
+
 var Prompto = "Hi ! Enter your name";
 
 var intake = prompt(Prompto);
@@ -74,13 +75,4 @@ switch (b) {
 
 }
 
-console.log(message);
-
-var a=0;
-var b=0;
-while(a<=7)
-{
-    console.log(OurFriends[a]);
-    a++;
-}
 
