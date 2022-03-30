@@ -53,6 +53,7 @@ OurFriends.sort();
 OurFriends.reverse();
 
 var ourmanyfriends = [["i", "love", "JS"],["work","at", "yash"]];
+var ourmanyfriends2 = [["x", "losdce", "JSsd"],["wosdsrk","adst", "yadsssh"]];
 console.log(ourmanyfriends[0][2]);
 
 var a = 14;
