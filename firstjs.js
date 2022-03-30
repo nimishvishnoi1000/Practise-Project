@@ -14,7 +14,7 @@ var nos3=126;
 var X=10;
 var Y=20;
 var Z=30;
-var w ="Github";
+
 var Prompto = "Hi ! Enter your name";
 
 var intake = prompt(Prompto);
