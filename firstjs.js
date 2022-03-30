@@ -75,18 +75,4 @@ switch (b) {
 
 }
 
-console.log(message);
-
-var a=0;
-var b=0;
-while(a<=7)
-{
-    console.log(OurFriends[a]);
-    a++;
-}
-
-
-const myJSON = '{"name":"John", "age":30, "car":null}';
-const myObj = JSON.parse(myJSON);
-x = myObj.name;
 
